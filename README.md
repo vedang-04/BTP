@@ -1,5 +1,5 @@
 # BTP
-Matlab code for [BTP](BTP.pdf).<br>This repository contains the Matlab code for my BTP titled 'Simulations of Spherical and Helical Beam with MATLAB'. In order to obtain the plots and distributions shown in the report follow the code.
+Matlab code for [BTP](https://drive.google.com/file/d/1b-C-O5LToJSFccAVsQzmQ66Bjta6sB2D/view?usp=sharing).<br>This repository contains the Matlab code for my BTP titled 'Simulations of Spherical and Helical Beam with MATLAB'. In order to obtain the plots and distributions shown in the report follow the code.
 The experimental setup used in the BTP is as follows;
 
 ![Experimental Setup](images/es.PNG)
