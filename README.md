@@ -15,10 +15,12 @@ Window with aperture in the center
 Speckled beam
 ![Beam](images/res2.PNG)
 
-Amplitude Distribution of the Complex Polarization Correlation Function 
 ![l1](images/res3.PNG)
 For ℓ = 1
 ![l2](images/res4.PNG)
 For ℓ = 2
 ![l3](images/res5.PNG)
 For ℓ = 3
+
+Amplitude Distribution of the Complex Polarization Correlation Function 
+
