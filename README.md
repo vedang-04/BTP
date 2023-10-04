@@ -10,10 +10,15 @@ He-Ne laser light beam is attenuated with a neutral density filter and oriented 
 Following are a few of the results shown as given in the report as well;
 
 Window with aperture in the center
+![Window](images/res1.PNG)
 
 Speckled beam
+![Beam](images/res2.PNG)
 
 Amplitude Distribution of the Complex Polarization Correlation Function 
+![l1](images/res3.PNG)
 For ℓ = 1
+![l2](images/res4.PNG)
 For ℓ = 2
+![l3](images/res5.PNG)
 For ℓ = 3
